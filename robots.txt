@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocalmictos.github.io/sitemap
+Sitemap: https://ocalmictos.github.io/app/sitemap
+Sitemap: https://ocalmictos.github.io/assets/sitemap
+Sitemap: https://ocalmictos.github.io/css/sitemap
+Sitemap: https://ocalmictos.github.io/includes/sitemap
+Sitemap: https://ocalmictos.github.io/item/sitemap
+Sitemap: https://ocalmictos.github.io/src/sitemap
